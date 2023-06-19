@@ -7,4 +7,4 @@ for i in range(1, number+1):
     print(' ' * space, end='')
     space -= 1
     print('+' * plus)
-    number +=2
+    plus +=2

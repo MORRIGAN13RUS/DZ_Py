@@ -18,11 +18,11 @@ for key, volume in my_dict.items():
     my_vol.append(set(volume))
 
 # ✔ Какие вещи взяли все три друга
-notoll_set = my_vol[0]
+not_all_set = my_vol[0]
 for i in range (len(my_keys)):
-    notoll_set = notoll_set & my_vol[i]
+    not_all_set = not_all_set & my_vol[i]
 
-print(f"{notoll_set} есть у всех")
+print(f"{not_all_set} есть у всех")
 
 # ✔ Какие вещи уникальны, есть только у одного друга
 for i in range(len(my_keys)):
@@ -35,12 +35,12 @@ for i in range(len(my_keys)):
 
 # ✔ Какие вещи есть у всех друзей кроме одного
 # и имя того, у кого данная вещь отсутствует
-oll_set = set()
+all_set = set()
 for i in my_vol:
-    oll_set = oll_set | i
+    all_set = all_set | i
 
 my_list=[]
-for i in oll_set:
+for i in all_set:
     counter = 0
     for j in my_vol:
         if i in j:

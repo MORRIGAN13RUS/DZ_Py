@@ -8,7 +8,7 @@ sorted_list = sorted(backpack_dict.items(), key=lambda x: x[1])
 summ=0
 for i in sorted_list:
     summ += i[1]
-    if summ<=12:
+    if summ<=backpack:
         print(i[0])
     else:
         break

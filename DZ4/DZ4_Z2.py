@@ -7,13 +7,14 @@
 
 def my_function(**kwargs):
     my_dict = dict()
-    for value, key in kwargs.items():
-        if isinstance(key, (list, dict, set, bytearray)):
-            my_dict[str(key)] = value
+    for key, val in kwargs.items():
+        if isinstance(val, (list, dict, set, bytearray)):
+            my_dict[str(val)] = key
         else:
-            my_dict[key] = value
-    print(my_dict)
+            my_dict[val] = key
+    return my_dict
 
 
 if __name__ == '__main__':
-    my_function(int_=5, float_=0.1, str_='cтрока', bool_=True, tuple_=(1, 2, 3,), list_=[4, 5, 6], set_={7, 8, 9})
+    dict_my = my_function(int_=5, float_=0.1, str_="строка", bool_=True, tuple_=(1, 2, 3,), list_=[4, 5, 6], set_={7, 8, 9})
+    print(dict_my)

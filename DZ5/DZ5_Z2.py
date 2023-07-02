@@ -5,7 +5,7 @@ way = "C:\GB\Python\gile.pdf"
 
 def linc_tuple(l):
     b,c = l.rsplit('.', maxsplit=1)
-    x,a=b.rsplit("\\", maxsplit=1)
+    x,a = b.rsplit("\\", maxsplit=1)
     return(c,a,x)
 
 print(linc_tuple(way))

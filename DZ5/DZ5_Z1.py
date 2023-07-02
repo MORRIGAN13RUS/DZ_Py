@@ -11,8 +11,8 @@ def fib(n):
             yield "1"
         else:        
             num = num1+num2
-            num1=num2
-            num2=num
+            num1 = num2
+            num2 = num
             yield num
 
 

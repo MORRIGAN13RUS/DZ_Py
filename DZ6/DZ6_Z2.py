@@ -36,7 +36,6 @@ def random_coordinates() -> list:
                 flag = False
         if flag:
             coordinates.append(tmp)
-    print(coordinates)
     return coordinates
 
 def random_True_coordinates() -> list:

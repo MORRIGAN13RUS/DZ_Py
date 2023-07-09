@@ -24,4 +24,4 @@ def files_generator(ext:str,files:int=42 , min_name:int=6, max_name:int=30, \
 
 
 if __name__ == '__main__':
-    files_generator('txt', 2, 3, 7, 25, 500)
+    files_generator('xxx', 3, 3, 7, 25, 500)

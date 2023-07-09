@@ -7,7 +7,7 @@
 from random import randint as rnd, choices as chs
 from string import ascii_lowercase as asc, digits as dig
 import os
-
+__all__ = ["files_gen","files_todir_gen"]
 
 def files_gen(ext:str,files:int=42 , min_name:int=6, max_name:int=30, \
       min_bytes:int=256, max_bytes:int=4096) -> None:

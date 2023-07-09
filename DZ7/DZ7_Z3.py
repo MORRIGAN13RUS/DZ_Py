@@ -8,6 +8,8 @@
 
 import os 
 
+__all__ = ["rename_files"] 
+
 
 def rename_files (start: int, stop: int, ext_old: str,  numb_name: int, ext_new: str, end_name: str="_" ) -> None:
     counter = 1

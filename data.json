@@ -1,0 +1,1882 @@
+{
+  ".git": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 289011
+  },
+  "COMMIT_EDITMSG": {
+    "parent_dir": ".git\\",
+    "type": "<file>",
+    "size": 2
+  },
+  "config": {
+    "parent_dir": ".git\\",
+    "type": "<file>",
+    "size": 301
+  },
+  "description": {
+    "parent_dir": ".git\\",
+    "type": "<file>",
+    "size": 73
+  },
+  "HEAD": {
+    "parent_dir": "logs\\",
+    "type": "<file>",
+    "size": 4768
+  },
+  "hooks": {
+    "parent_dir": ".git\\",
+    "type": "<dir>",
+    "size": 23513
+  },
+  "applypatch-msg.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 478
+  },
+  "commit-msg.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 896
+  },
+  "fsmonitor-watchman.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 4726
+  },
+  "post-update.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 189
+  },
+  "pre-applypatch.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 424
+  },
+  "pre-commit.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 1643
+  },
+  "pre-merge-commit.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 416
+  },
+  "pre-push.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 1374
+  },
+  "pre-rebase.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 4898
+  },
+  "pre-receive.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 544
+  },
+  "prepare-commit-msg.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 1492
+  },
+  "push-to-checkout.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 2783
+  },
+  "update.sample": {
+    "parent_dir": "hooks\\",
+    "type": "<file>",
+    "size": 3650
+  },
+  "index": {
+    "parent_dir": ".git\\",
+    "type": "<file>",
+    "size": 3107
+  },
+  "info": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 0
+  },
+  "exclude": {
+    "parent_dir": "info\\",
+    "type": "<file>",
+    "size": 240
+  },
+  "logs": {
+    "parent_dir": ".git\\",
+    "type": "<dir>",
+    "size": 31442
+  },
+  "refs": {
+    "parent_dir": ".git\\",
+    "type": "<dir>",
+    "size": 123
+  },
+  "heads": {
+    "parent_dir": "refs\\",
+    "type": "<dir>",
+    "size": 41
+  },
+  "main": {
+    "parent_dir": "origin\\",
+    "type": "<file>",
+    "size": 41
+  },
+  "remotes": {
+    "parent_dir": "refs\\",
+    "type": "<dir>",
+    "size": 41
+  },
+  "origin": {
+    "parent_dir": "remotes\\",
+    "type": "<dir>",
+    "size": 41
+  },
+  "objects": {
+    "parent_dir": ".git\\",
+    "type": "<dir>",
+    "size": 101696
+  },
+  "00": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 494
+  },
+  "6a3b4b5a5868e988af6580f2ed6b0952a2ea7c": {
+    "parent_dir": "00\\",
+    "type": "<file>",
+    "size": 494
+  },
+  "02": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 108
+  },
+  "ea412fa904b0fc2fe106761ad313800d332cf0": {
+    "parent_dir": "02\\",
+    "type": "<file>",
+    "size": 108
+  },
+  "03": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 107
+  },
+  "4f55f31aa495bd8444c8fb1e46ae2dfd4c05a9": {
+    "parent_dir": "03\\",
+    "type": "<file>",
+    "size": 107
+  },
+  "04": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 507
+  },
+  "f63a8501a0665b1c9cacb2d3fb0e8f198fa842": {
+    "parent_dir": "04\\",
+    "type": "<file>",
+    "size": 507
+  },
+  "06": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 155
+  },
+  "34ca6b03f44d9392bd792691fe53a0ae7d4c3b": {
+    "parent_dir": "06\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "07": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 107
+  },
+  "694f0166c1a919489081a38e55455d99f66d9c": {
+    "parent_dir": "07\\",
+    "type": "<file>",
+    "size": 107
+  },
+  "08": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 278
+  },
+  "e45e385dcb44f43951341e1686741edd4cedef": {
+    "parent_dir": "08\\",
+    "type": "<file>",
+    "size": 278
+  },
+  "0d": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 621
+  },
+  "96b0933db00d42f74c8252e7d2e9b7b69a2292": {
+    "parent_dir": "0d\\",
+    "type": "<file>",
+    "size": 621
+  },
+  "14": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 108
+  },
+  "601cf08ab81c04cc94901a59cbb8ec8bb8374d": {
+    "parent_dir": "14\\",
+    "type": "<file>",
+    "size": 108
+  },
+  "1a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "d7608430971eef1405dccc491995f4b1f3e6b7": {
+    "parent_dir": "1a\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "20": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 54
+  },
+  "843688329d5425d61269dd9abad27adb269d85": {
+    "parent_dir": "20\\",
+    "type": "<file>",
+    "size": 54
+  },
+  "21": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 289
+  },
+  "a1d94788b52711453b60e1bc7d8f1bf4cf1d4c": {
+    "parent_dir": "21\\",
+    "type": "<file>",
+    "size": 133
+  },
+  "b054079c8f4c188e74d2de4f1102288681914a": {
+    "parent_dir": "21\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "22": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 804
+  },
+  "306daf0cce20bfa0e305cdc8316c80054275cb": {
+    "parent_dir": "22\\",
+    "type": "<file>",
+    "size": 804
+  },
+  "26": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2341
+  },
+  "12d1f52aaef8b8328e97df06e023e21c911cf1": {
+    "parent_dir": "26\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "9157008c6b4798b7473c6348f60f4514da6e8b": {
+    "parent_dir": "26\\",
+    "type": "<file>",
+    "size": 573
+  },
+  "c1f53912f40c8ad657fc632ce4fc513e48b344": {
+    "parent_dir": "26\\",
+    "type": "<file>",
+    "size": 1613
+  },
+  "29": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "3ad8199b5a247a35c16b0bc9a8a349e6cb72d8": {
+    "parent_dir": "29\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "2a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 154
+  },
+  "9d0b2789c54d8ee46fd5112e8433d2ca501266": {
+    "parent_dir": "2a\\",
+    "type": "<file>",
+    "size": 154
+  },
+  "2f": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3037
+  },
+  "61deab0ed6b0d2a4c41fbde5edef49bd961644": {
+    "parent_dir": "2f\\",
+    "type": "<file>",
+    "size": 1559
+  },
+  "8655ef9d0a7faad36d71431fe1a5569f843d05": {
+    "parent_dir": "2f\\",
+    "type": "<file>",
+    "size": 520
+  },
+  "9eb21baa9c6c9741cb52ae0e759be67d66e5c2": {
+    "parent_dir": "2f\\",
+    "type": "<file>",
+    "size": 81
+  },
+  "e697fb4c5a1300ec5cb0d875554ec8a9a25d77": {
+    "parent_dir": "2f\\",
+    "type": "<file>",
+    "size": 877
+  },
+  "30": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 200
+  },
+  "0b3599e7b213fb5819dade7851004fddf02928": {
+    "parent_dir": "30\\",
+    "type": "<file>",
+    "size": 44
+  },
+  "6d3a844f5356ca67f13a85373008e10beef28c": {
+    "parent_dir": "30\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "31": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 409
+  },
+  "307984c2e4bde2d02d04e42222f515586b847f": {
+    "parent_dir": "31\\",
+    "type": "<file>",
+    "size": 253
+  },
+  "947a5e21cc0b1337a4a4838291073a61889c78": {
+    "parent_dir": "31\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "32": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 159
+  },
+  "bbbe60e3139acd37d80d5c42a2c60ca55fa2d1": {
+    "parent_dir": "32\\",
+    "type": "<file>",
+    "size": 159
+  },
+  "33": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 867
+  },
+  "52a6d2efd49cfe51d626c623783ddd86f7f70c": {
+    "parent_dir": "33\\",
+    "type": "<file>",
+    "size": 712
+  },
+  "e9d34560585c1c58e691639531bd07a31d464e": {
+    "parent_dir": "33\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "34": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "d53f950a9c23c1bee85156b7712fa87e973a8a": {
+    "parent_dir": "34\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "37": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 280
+  },
+  "b2aad3297de3b1685d90e0ef8a5ab00193fc38": {
+    "parent_dir": "37\\",
+    "type": "<file>",
+    "size": 280
+  },
+  "3a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 323
+  },
+  "69f066a0f65ea84017d838e72c5bb1553061e4": {
+    "parent_dir": "3a\\",
+    "type": "<file>",
+    "size": 28
+  },
+  "73c8489ba54d2c8d847bb93c23fc06c8630117": {
+    "parent_dir": "3a\\",
+    "type": "<file>",
+    "size": 141
+  },
+  "79ed12ece98b7c370ff46e0ddbee092209baba": {
+    "parent_dir": "3a\\",
+    "type": "<file>",
+    "size": 154
+  },
+  "3c": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 54
+  },
+  "aeffed593e7f96db1885bebab4dc9c7d6e0c73": {
+    "parent_dir": "3c\\",
+    "type": "<file>",
+    "size": 54
+  },
+  "3e": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "054a3cd69959531f3c3accd8ed816c8cfe9617": {
+    "parent_dir": "3e\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "41": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 53
+  },
+  "d669326954abf6919e0d6473ce8febcd641fe2": {
+    "parent_dir": "41\\",
+    "type": "<file>",
+    "size": 53
+  },
+  "43": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 140
+  },
+  "eea78bb2650ef8dc4877e8459328b06f04e494": {
+    "parent_dir": "43\\",
+    "type": "<file>",
+    "size": 140
+  },
+  "45": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 295
+  },
+  "9b5ad5290fa093920c47edd058a4a20fc60a98": {
+    "parent_dir": "45\\",
+    "type": "<file>",
+    "size": 295
+  },
+  "46": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2468
+  },
+  "3089d4726620d8d9acdda47c8e7fbc68794d38": {
+    "parent_dir": "46\\",
+    "type": "<file>",
+    "size": 310
+  },
+  "9a4a7b51f97a2b04b0d6aec28cf459c201b8c5": {
+    "parent_dir": "46\\",
+    "type": "<file>",
+    "size": 2051
+  },
+  "de992e605eeb801d07191b9e144fae07ea4ac4": {
+    "parent_dir": "46\\",
+    "type": "<file>",
+    "size": 107
+  },
+  "48": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 159
+  },
+  "7e0e83a4f2ac463cb91f69e7af0d822d10cbf5": {
+    "parent_dir": "48\\",
+    "type": "<file>",
+    "size": 159
+  },
+  "49": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2009
+  },
+  "a94c782d27d5189bb82df717136c64579ec54b": {
+    "parent_dir": "49\\",
+    "type": "<file>",
+    "size": 2009
+  },
+  "4b": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1291
+  },
+  "3d462fa8b67ee06c55e2b5082717cf222b8cd5": {
+    "parent_dir": "4b\\",
+    "type": "<file>",
+    "size": 1291
+  },
+  "4c": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 524
+  },
+  "acff340bafc9e51e6b6a9270bf31cb9d23a482": {
+    "parent_dir": "4c\\",
+    "type": "<file>",
+    "size": 524
+  },
+  "4f": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1160
+  },
+  "71af5c9276330830ee217b5627f871b4622e92": {
+    "parent_dir": "4f\\",
+    "type": "<file>",
+    "size": 432
+  },
+  "ef0c84164a8aa1c9b1bb679ee7025931848000": {
+    "parent_dir": "4f\\",
+    "type": "<file>",
+    "size": 728
+  },
+  "50": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 335
+  },
+  "daed55da1f70732e87c80b0f9b9b0f06bc1945": {
+    "parent_dir": "50\\",
+    "type": "<file>",
+    "size": 335
+  },
+  "53": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 155
+  },
+  "6749c417a9b867094e58adfc257bedc5a5950c": {
+    "parent_dir": "53\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "54": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 729
+  },
+  "3cc7bdc8ee6a6674c5cd316f475e996bb313e4": {
+    "parent_dir": "54\\",
+    "type": "<file>",
+    "size": 729
+  },
+  "55": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 256
+  },
+  "c7e2a31c719c65dff77f61cc9597bf807cc8a9": {
+    "parent_dir": "55\\",
+    "type": "<file>",
+    "size": 256
+  },
+  "57": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1077
+  },
+  "226b5053fead680f87d902b39dd1a31183210f": {
+    "parent_dir": "57\\",
+    "type": "<file>",
+    "size": 253
+  },
+  "842045841ffa4bd51e1136ec7e5d139ec9df62": {
+    "parent_dir": "57\\",
+    "type": "<file>",
+    "size": 824
+  },
+  "58": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 933
+  },
+  "36acd91d07d14d2c3705ab7524d05e3ea03e8f": {
+    "parent_dir": "58\\",
+    "type": "<file>",
+    "size": 310
+  },
+  "3bc8bb196392a21dab748fde0a298e2d568b43": {
+    "parent_dir": "58\\",
+    "type": "<file>",
+    "size": 623
+  },
+  "59": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 133
+  },
+  "6b3d27f90237f124bedf328f088f596df24694": {
+    "parent_dir": "59\\",
+    "type": "<file>",
+    "size": 133
+  },
+  "5a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 80
+  },
+  "e5df5da16a024bcc3a1d1f61c741a7748e21be": {
+    "parent_dir": "5a\\",
+    "type": "<file>",
+    "size": 80
+  },
+  "5c": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 375
+  },
+  "e065ce7e641f3c24456643dd4f82b344c5598f": {
+    "parent_dir": "5c\\",
+    "type": "<file>",
+    "size": 375
+  },
+  "5d": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 809
+  },
+  "722404d9ab115262a5f79afed609b22d12b37c": {
+    "parent_dir": "5d\\",
+    "type": "<file>",
+    "size": 809
+  },
+  "5e": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3600
+  },
+  "6203331d6a166e018350cf8722bfe1f891c5a9": {
+    "parent_dir": "5e\\",
+    "type": "<file>",
+    "size": 3600
+  },
+  "5f": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 188
+  },
+  "f9576619965d53774aff47249c07301b27b00b": {
+    "parent_dir": "5f\\",
+    "type": "<file>",
+    "size": 188
+  },
+  "60": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "b475d0fe7a4cef99a4fa157fa0ff622f44779b": {
+    "parent_dir": "60\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "61": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 823
+  },
+  "4ab3cd8ba4f420a5452a7fd00ebec61ea6e0da": {
+    "parent_dir": "61\\",
+    "type": "<file>",
+    "size": 823
+  },
+  "62": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 499
+  },
+  "503e95be910441258cad11e627166a8388843c": {
+    "parent_dir": "62\\",
+    "type": "<file>",
+    "size": 499
+  },
+  "63": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1125
+  },
+  "518aeb3905996e8e30632d2037af77c2dc6787": {
+    "parent_dir": "63\\",
+    "type": "<file>",
+    "size": 1045
+  },
+  "94545c3f0b16d0e79c6cb90efbe8733184956f": {
+    "parent_dir": "63\\",
+    "type": "<file>",
+    "size": 80
+  },
+  "68": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 361
+  },
+  "443653cce992b0572554ced8307cba115841ef": {
+    "parent_dir": "68\\",
+    "type": "<file>",
+    "size": 361
+  },
+  "69": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2786
+  },
+  "ed27fa5599379192458eb462f5649442de9639": {
+    "parent_dir": "69\\",
+    "type": "<file>",
+    "size": 2786
+  },
+  "6a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 500
+  },
+  "e885da09a428c05e4352d2f058d0851b3ca993": {
+    "parent_dir": "6a\\",
+    "type": "<file>",
+    "size": 500
+  },
+  "6c": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 126
+  },
+  "712463ee2054cb9fd6708624e875bd205c56dd": {
+    "parent_dir": "6c\\",
+    "type": "<file>",
+    "size": 126
+  },
+  "6e": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 188
+  },
+  "9611532d84af82552608578522a0e45279dec4": {
+    "parent_dir": "6e\\",
+    "type": "<file>",
+    "size": 188
+  },
+  "73": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 358
+  },
+  "a6a35f17640b41e995870f29051cc82c2d390c": {
+    "parent_dir": "73\\",
+    "type": "<file>",
+    "size": 278
+  },
+  "b06920de1480518209ceb6f2c8f72be58d59ec": {
+    "parent_dir": "73\\",
+    "type": "<file>",
+    "size": 80
+  },
+  "75": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1973
+  },
+  "5c9c8e4294775f5b6d572dad403de6e68081e0": {
+    "parent_dir": "75\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "70a9c14ff084b8be6c12aaba9d897428b5b351": {
+    "parent_dir": "75\\",
+    "type": "<file>",
+    "size": 1817
+  },
+  "76": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "78e928bbb785fedba20f52c9d8958f6df2891e": {
+    "parent_dir": "76\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "77": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 70
+  },
+  "dd7453435433a04bdef27ac5d6a248b5cffe2f": {
+    "parent_dir": "77\\",
+    "type": "<file>",
+    "size": 70
+  },
+  "79": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 360
+  },
+  "a37951e4e6e82c26364fc50e1742ca84c06574": {
+    "parent_dir": "79\\",
+    "type": "<file>",
+    "size": 360
+  },
+  "7b": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3844
+  },
+  "e3646c0b4a281d75bbec2442f8ebd6a3bd100b": {
+    "parent_dir": "7b\\",
+    "type": "<file>",
+    "size": 361
+  },
+  "e9fb969ce87041b866eaae52f698b79f33f58c": {
+    "parent_dir": "7b\\",
+    "type": "<file>",
+    "size": 3483
+  },
+  "7c": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 519
+  },
+  "66fa420fb327a2efe50088373c82ece2b78ad5": {
+    "parent_dir": "7c\\",
+    "type": "<file>",
+    "size": 519
+  },
+  "7d": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 242
+  },
+  "f74c4f5a610b60a0e2d586f01f870184f9928b": {
+    "parent_dir": "7d\\",
+    "type": "<file>",
+    "size": 242
+  },
+  "81": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 240
+  },
+  "c4829b85b750aed450fdffd1069c4d70abfb19": {
+    "parent_dir": "81\\",
+    "type": "<file>",
+    "size": 240
+  },
+  "82": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1052
+  },
+  "e05b5873045b94311e7dcafdd1925afd446c90": {
+    "parent_dir": "82\\",
+    "type": "<file>",
+    "size": 1052
+  },
+  "83": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 310
+  },
+  "a58d230305320eb322cef62ab9b0aa73a2be4d": {
+    "parent_dir": "83\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "be28377af204d5a8c6781aa12332b93d89c7f1": {
+    "parent_dir": "83\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "84": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 277
+  },
+  "97bfa6ac2d1b7f5dc757bbd5fb7e4bb8e2fe72": {
+    "parent_dir": "84\\",
+    "type": "<file>",
+    "size": 253
+  },
+  "e209e05c2a00f6b2a60955050b00267b0a126e": {
+    "parent_dir": "84\\",
+    "type": "<file>",
+    "size": 24
+  },
+  "86": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1042
+  },
+  "d0df95f0a86326c4d013cc7b54f8f26a522464": {
+    "parent_dir": "86\\",
+    "type": "<file>",
+    "size": 886
+  },
+  "d2eaef542ef7a46d833b43d7c395a7fd0ffe91": {
+    "parent_dir": "86\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "87": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3962
+  },
+  "82f171b596f3875065766ea7efdaa3e667816b": {
+    "parent_dir": "87\\",
+    "type": "<file>",
+    "size": 334
+  },
+  "9f08ba2dac4ff5579768062b134713cc9c81ec": {
+    "parent_dir": "87\\",
+    "type": "<file>",
+    "size": 3628
+  },
+  "8a": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3311
+  },
+  "26b26e52cbd3787a58d957dbb94642097d5abe": {
+    "parent_dir": "8a\\",
+    "type": "<file>",
+    "size": 3311
+  },
+  "8d": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 333
+  },
+  "d1546aa47d54db981b46e0fd3566c33d663c4f": {
+    "parent_dir": "8d\\",
+    "type": "<file>",
+    "size": 333
+  },
+  "8f": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1939
+  },
+  "2eb6ad1c1238098a762a1344d695af0d74314a": {
+    "parent_dir": "8f\\",
+    "type": "<file>",
+    "size": 1577
+  },
+  "ad502b98fa452a091f8930ae2c163e087fd379": {
+    "parent_dir": "8f\\",
+    "type": "<file>",
+    "size": 362
+  },
+  "90": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 80
+  },
+  "8cdcb078a0af126b032e6a8da7e29c3b2701ca": {
+    "parent_dir": "90\\",
+    "type": "<file>",
+    "size": 80
+  },
+  "92": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 430
+  },
+  "c4284903640d0e85eaea117b00024f2c9218ec": {
+    "parent_dir": "92\\",
+    "type": "<file>",
+    "size": 154
+  },
+  "ce50c1a3243384e9ddc70fed4c573783e83c4f": {
+    "parent_dir": "92\\",
+    "type": "<file>",
+    "size": 252
+  },
+  "f3ae611068320aa4f8d6b987920c5eed26d9d4": {
+    "parent_dir": "92\\",
+    "type": "<file>",
+    "size": 24
+  },
+  "93": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 253
+  },
+  "829d6edad110d96fa6286f276b39fc13def9a2": {
+    "parent_dir": "93\\",
+    "type": "<file>",
+    "size": 253
+  },
+  "95": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 872
+  },
+  "92f1247d1f38bf5b91278d0e3c4f9a33e380a8": {
+    "parent_dir": "95\\",
+    "type": "<file>",
+    "size": 872
+  },
+  "96": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 812
+  },
+  "1a1c53c53101522307493e8a6d6d259edbb858": {
+    "parent_dir": "96\\",
+    "type": "<file>",
+    "size": 812
+  },
+  "97": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3465
+  },
+  "5e7e458bc2c14b88deca720ae5bfd3613f50ca": {
+    "parent_dir": "97\\",
+    "type": "<file>",
+    "size": 3310
+  },
+  "83bd434cd290c69ee16aa29409fc9e6cdc5604": {
+    "parent_dir": "97\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "99": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 170
+  },
+  "f25150e10f89feadbf9ea2ba4ad02041abc884": {
+    "parent_dir": "99\\",
+    "type": "<file>",
+    "size": 170
+  },
+  "a0": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 906
+  },
+  "edef6437be737c8c67ae978b1c64b0aed526f4": {
+    "parent_dir": "a0\\",
+    "type": "<file>",
+    "size": 906
+  },
+  "a2": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3418
+  },
+  "89d485e049153fe3020b1489eb32129b5c4380": {
+    "parent_dir": "a2\\",
+    "type": "<file>",
+    "size": 3042
+  },
+  "96aec8065df7233237b6d72eb7155508224a26": {
+    "parent_dir": "a2\\",
+    "type": "<file>",
+    "size": 376
+  },
+  "ab": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 108
+  },
+  "fba195eca2d47e8faaec60ce96d75f66ba6778": {
+    "parent_dir": "ab\\",
+    "type": "<file>",
+    "size": 108
+  },
+  "ac": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 476
+  },
+  "532cf3a97ee18b1cd49420f90668cbc2a302f0": {
+    "parent_dir": "ac\\",
+    "type": "<file>",
+    "size": 476
+  },
+  "ad": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2378
+  },
+  "50b995415fd7287e889f88e7a17f9cc1b51d51": {
+    "parent_dir": "ad\\",
+    "type": "<file>",
+    "size": 1967
+  },
+  "7169efc1f0a8d6ce32b360407e064bedb5813f": {
+    "parent_dir": "ad\\",
+    "type": "<file>",
+    "size": 411
+  },
+  "af": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 81
+  },
+  "db3ac2ecf7ad1b62f3f00d9117e8d9f7a34116": {
+    "parent_dir": "af\\",
+    "type": "<file>",
+    "size": 81
+  },
+  "b0": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 683
+  },
+  "487b00b3af9456903f01aedabbabead4053f43": {
+    "parent_dir": "b0\\",
+    "type": "<file>",
+    "size": 683
+  },
+  "b2": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 54
+  },
+  "d17ca180c525de62c49a2539d66d45f11545e6": {
+    "parent_dir": "b2\\",
+    "type": "<file>",
+    "size": 54
+  },
+  "b4": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 520
+  },
+  "5ca109bcfc6728b9ffa1134887f76dd9dc4940": {
+    "parent_dir": "b4\\",
+    "type": "<file>",
+    "size": 520
+  },
+  "b5": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 155
+  },
+  "6c25100d314b43d4ad9c2db81c40a15196c15c": {
+    "parent_dir": "b5\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "b6": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 134
+  },
+  "c81478a7ee27de14d3d6ae501d2f715a1b2859": {
+    "parent_dir": "b6\\",
+    "type": "<file>",
+    "size": 134
+  },
+  "b8": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2426
+  },
+  "7d24114bf0afa05a17db808c4dd91f307ac862": {
+    "parent_dir": "b8\\",
+    "type": "<file>",
+    "size": 2426
+  },
+  "b9": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 155
+  },
+  "2327448104d70cbc1db213aabe7297e71ac0f0": {
+    "parent_dir": "b9\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "bd": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3058
+  },
+  "cb1302a5e386859bb65db581d3a88f143111a6": {
+    "parent_dir": "bd\\",
+    "type": "<file>",
+    "size": 3058
+  },
+  "be": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 255
+  },
+  "8c1a420f3159b3584ce18a446d16c45396ccd0": {
+    "parent_dir": "be\\",
+    "type": "<file>",
+    "size": 255
+  },
+  "c0": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3505
+  },
+  "f31323ac88f572a93ce208259d1625121cc5f3": {
+    "parent_dir": "c0\\",
+    "type": "<file>",
+    "size": 3505
+  },
+  "c9": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 209
+  },
+  "1a4c0c74b9592dfc88235421731da19690d510": {
+    "parent_dir": "c9\\",
+    "type": "<file>",
+    "size": 53
+  },
+  "bec7a0cec1a145f487b5111f039c55a06e7af3": {
+    "parent_dir": "c9\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "ca": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 533
+  },
+  "33a73b102c2a7a460fa053996d53728664797a": {
+    "parent_dir": "ca\\",
+    "type": "<file>",
+    "size": 533
+  },
+  "cd": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 235
+  },
+  "22196a5442b935931e136682136aea3bcb6613": {
+    "parent_dir": "cd\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "af250aeecb1d64b1c92fc574d637037097bd28": {
+    "parent_dir": "cd\\",
+    "type": "<file>",
+    "size": 79
+  },
+  "cf": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 232
+  },
+  "b0cc7b93fb6f56f306cad30a42a7790624d96e": {
+    "parent_dir": "cf\\",
+    "type": "<file>",
+    "size": 80
+  },
+  "ebd67df55242016c714597178273856ffef4a6": {
+    "parent_dir": "cf\\",
+    "type": "<file>",
+    "size": 152
+  },
+  "d1": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 3010
+  },
+  "1be259eb7bae22c3a69b826c35b7bd1359bc33": {
+    "parent_dir": "d1\\",
+    "type": "<file>",
+    "size": 418
+  },
+  "8c3e1407808bb3f6e96193b493b0e6ea02e405": {
+    "parent_dir": "d1\\",
+    "type": "<file>",
+    "size": 2592
+  },
+  "d2": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 408
+  },
+  "27bc355f30ba1bc1b1d53abf3cfb33a0858ac6": {
+    "parent_dir": "d2\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "9fc71a0a36e7500b9b6bfd95a7477f2c3e08b5": {
+    "parent_dir": "d2\\",
+    "type": "<file>",
+    "size": 253
+  },
+  "d4": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 437
+  },
+  "cf4580d266ec2e53f87a5f4d257a36f8e3eb03": {
+    "parent_dir": "d4\\",
+    "type": "<file>",
+    "size": 437
+  },
+  "d5": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 477
+  },
+  "fb86a923416b698c736b97fdef1e3d9f8e65e1": {
+    "parent_dir": "d5\\",
+    "type": "<file>",
+    "size": 477
+  },
+  "d9": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "fbc5f645efac9aa17825b79c6dc051011a66e6": {
+    "parent_dir": "d9\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "da": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 156
+  },
+  "70a4acfd71b466003545abdeb6987b2ed237ab": {
+    "parent_dir": "da\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "e0": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 855
+  },
+  "570930c5c0adda8d8c5e77f014ffdd5968a68e": {
+    "parent_dir": "e0\\",
+    "type": "<file>",
+    "size": 579
+  },
+  "bf4c4c67de49d913003348d22eb85a9d156920": {
+    "parent_dir": "e0\\",
+    "type": "<file>",
+    "size": 276
+  },
+  "e1": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 278
+  },
+  "eb2af08df25f2630ceb7ca64653bf7beb813e7": {
+    "parent_dir": "e1\\",
+    "type": "<file>",
+    "size": 278
+  },
+  "e2": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1929
+  },
+  "bc33d9d9c6bed0302e1db2456ff773205c5f45": {
+    "parent_dir": "e2\\",
+    "type": "<file>",
+    "size": 1929
+  },
+  "e3": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 563
+  },
+  "4a6a95e621c7407215c22bd69466f320fddd8e": {
+    "parent_dir": "e3\\",
+    "type": "<file>",
+    "size": 228
+  },
+  "b663f962ec72e443b546c3693f8adf342fdeef": {
+    "parent_dir": "e3\\",
+    "type": "<file>",
+    "size": 335
+  },
+  "e5": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 600
+  },
+  "c85850f0ec34d9ecd47d9bcd8b7b894e42652d": {
+    "parent_dir": "e5\\",
+    "type": "<file>",
+    "size": 600
+  },
+  "e7": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 348
+  },
+  "0feb05f1f4c5df0f10f454a13063aa0c69c068": {
+    "parent_dir": "e7\\",
+    "type": "<file>",
+    "size": 107
+  },
+  "c0d72634f32fd949655aade42412ccf8469d10": {
+    "parent_dir": "e7\\",
+    "type": "<file>",
+    "size": 241
+  },
+  "e9": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 968
+  },
+  "8583b71b89059b93563b3e8c633275c8bb438b": {
+    "parent_dir": "e9\\",
+    "type": "<file>",
+    "size": 811
+  },
+  "be2d51e87ee2ea64ad5cf6c9591a443a14aaab": {
+    "parent_dir": "e9\\",
+    "type": "<file>",
+    "size": 157
+  },
+  "ea": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 155
+  },
+  "af6ffa7192660d0ab35748139328c9592aa63a": {
+    "parent_dir": "ea\\",
+    "type": "<file>",
+    "size": 155
+  },
+  "ed": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 1347
+  },
+  "32cc3fd5a9bbe41c193345c1c906548c8ae5b2": {
+    "parent_dir": "ed\\",
+    "type": "<file>",
+    "size": 803
+  },
+  "76ee9c599d8cea42aad7e3733aa25a7f4ffce7": {
+    "parent_dir": "ed\\",
+    "type": "<file>",
+    "size": 544
+  },
+  "ee": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2883
+  },
+  "aecf22ec175d782312a7eb00b54bd6d125054b": {
+    "parent_dir": "ee\\",
+    "type": "<file>",
+    "size": 2883
+  },
+  "f2": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 159
+  },
+  "39c09ff064d0b654e684c066109a0572c4c851": {
+    "parent_dir": "f2\\",
+    "type": "<file>",
+    "size": 159
+  },
+  "f3": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 518
+  },
+  "23e7199279f965f39677c85bfc20f0fc94431e": {
+    "parent_dir": "f3\\",
+    "type": "<file>",
+    "size": 518
+  },
+  "f8": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2226
+  },
+  "7bd542476c88bebaebf37f9ac99ca9558b237b": {
+    "parent_dir": "f8\\",
+    "type": "<file>",
+    "size": 2226
+  },
+  "f9": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 291
+  },
+  "1c628edb7161451fbd6b90f1a8683de1f78349": {
+    "parent_dir": "f9\\",
+    "type": "<file>",
+    "size": 81
+  },
+  "937a7155e0194f39583fbc6c7ed5ec1476d6c5": {
+    "parent_dir": "f9\\",
+    "type": "<file>",
+    "size": 54
+  },
+  "e73706f9feb0e9394951f0fd9529d164820c24": {
+    "parent_dir": "f9\\",
+    "type": "<file>",
+    "size": 156
+  },
+  "fd": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 267
+  },
+  "cef55dde3fc83cb9ce5b71d59e76e593c89969": {
+    "parent_dir": "fd\\",
+    "type": "<file>",
+    "size": 267
+  },
+  "fe": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 2661
+  },
+  "2e110806b98e8e5764692995f898baba7f363e": {
+    "parent_dir": "fe\\",
+    "type": "<file>",
+    "size": 2661
+  },
+  "pack": {
+    "parent_dir": "objects\\",
+    "type": "<dir>",
+    "size": 0
+  },
+  "tags": {
+    "parent_dir": "refs\\",
+    "type": "<dir>",
+    "size": 0
+  },
+  "50s__003.doc": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 150
+  },
+  "data.csv": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 14649
+  },
+  "data.json": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 38620
+  },
+  "data.pickle": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 14968
+  },
+  "DZ1_Z1.py": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 1593
+  },
+  "DZ1_Z2.py": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 335
+  },
+  "DZ1_Z3.py": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 638
+  },
+  "DZ1_Z4.py": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 993
+  },
+  "DZ1_Z5.py": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 857
+  },
+  "DZ2": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 6228
+  },
+  "DZ2_Z1.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 640
+  },
+  "DZ2_Z2.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 1466
+  },
+  "DZ2_Z3.py": {
+    "parent_dir": "DZ2\\",
+    "type": "<file>",
+    "size": 4122
+  },
+  "DZ3": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 6249
+  },
+  "DZ3_Z1.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 782
+  },
+  "DZ3_Z2.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 1313
+  },
+  "DZ3_Z3.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 881
+  },
+  "DZ3_Z4.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 1144
+  },
+  "DZ3_Z5.py": {
+    "parent_dir": "DZ3\\",
+    "type": "<file>",
+    "size": 2129
+  },
+  "DZ4": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 6542
+  },
+  "DZ4_Z1.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 381
+  },
+  "DZ4_Z2.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 907
+  },
+  "DZ4_Z3.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 4132
+  },
+  "DZ4_Z4.py": {
+    "parent_dir": "DZ4\\",
+    "type": "<file>",
+    "size": 1122
+  },
+  "DZ5": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 1687
+  },
+  "DZ5_Z1.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 434
+  },
+  "DZ5_Z2.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 467
+  },
+  "DZ5_Z3.py": {
+    "parent_dir": "DZ5\\",
+    "type": "<file>",
+    "size": 786
+  },
+  "DZ6": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 4372
+  },
+  "DZ6_z1.py": {
+    "parent_dir": "DZ6\\",
+    "type": "<file>",
+    "size": 1896
+  },
+  "DZ6_Z2.py": {
+    "parent_dir": "DZ6\\",
+    "type": "<file>",
+    "size": 2476
+  },
+  "DZ7": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 5567
+  },
+  "DZ7_Z1.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1638
+  },
+  "DZ7_Z2_.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 2070
+  },
+  "DZ7_Z3.py": {
+    "parent_dir": "DZ7\\",
+    "type": "<file>",
+    "size": 1819
+  },
+  "__init__.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 231
+  },
+  "DZ8": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 10951
+  },
+  "DZ8_Z4.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1475
+  },
+  "DZ8_Z5.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 777
+  },
+  "DZ8_Z6.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1204
+  },
+  "DZ8_Z7.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 471
+  },
+  "DZ8_Z8.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 3264
+  },
+  "Z1.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 972
+  },
+  "Z2.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 1737
+  },
+  "Z3.py": {
+    "parent_dir": "DZ8\\",
+    "type": "<file>",
+    "size": 820
+  },
+  "g2ugs__001.doc": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 275
+  },
+  "ops_list.txt": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 14
+  },
+  "s8t1.json": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 196
+  },
+  "s8t2.json": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 238
+  },
+  "s8t3.csv": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 111
+  },
+  "Seminar7": {
+    "parent_dir": "DZ PY\\",
+    "type": "<dir>",
+    "size": 6475
+  },
+  "s7t1.py": {
+    "parent_dir": "Seminar7\\",
+    "type": "<file>",
+    "size": 840
+  },
+  "s7t2.py": {
+    "parent_dir": "Seminar7\\",
+    "type": "<file>",
+    "size": 1070
+  },
+  "s7t3.py": {
+    "parent_dir": "Seminar7\\",
+    "type": "<file>",
+    "size": 2108
+  },
+  "s7t4.py": {
+    "parent_dir": "Seminar7\\",
+    "type": "<file>",
+    "size": 1558
+  },
+  "s7t5.py": {
+    "parent_dir": "Seminar7\\",
+    "type": "<file>",
+    "size": 899
+  },
+  "t3.txt": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 152
+  },
+  "total_score.txt": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 9
+  },
+  "ub7__002.doc": {
+    "parent_dir": "DZ PY\\",
+    "type": "<file>",
+    "size": 132
+  }
+}
